@@ -8,7 +8,5 @@
 
 <h3 align="center">My contacts</h3>
 <p align="center">
-  <a href="https://wa.me/+6283178358654"><img src="https://img.shields.io/badge/whatsapp-075E54.svg?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://fb.me/adlizhafari.nub"><img src="https://img.shields.io/badge/facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://t.me/kang_nuubi"><img src="https://img.shields.io/badge/telegram-0088CC.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
